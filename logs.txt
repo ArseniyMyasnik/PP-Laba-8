@@ -1,0 +1,486 @@
+Sat Nov 19 17:33:42 2022
+Skol'ko bochonkov v meshke?: 
+
+Sat Nov 19 17:33:43 2022
+Pol'zovatel' vvel: 6
+
+Sat Nov 19 17:33:43 2022
+Vvedite 1 chtoby vytyanut' sluchajnyj bochonok ili 2, chtoby vyjti:
+
+Sat Nov 19 17:33:44 2022
+Pol'zovatel' vvel: 1
+
+Sat Nov 19 17:33:44 2022
+Vypal bochonok s nomerom 
+
+6
+Sat Nov 19 17:33:44 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:33:45 2022
+Vypal bochonok s nomerom 
+
+5
+Sat Nov 19 17:33:45 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:33:45 2022
+Vypal bochonok s nomerom 
+
+1
+Sat Nov 19 17:33:45 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:33:46 2022
+Vypal bochonok s nomerom 
+
+3
+Sat Nov 19 17:33:46 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:33:46 2022
+Vypal bochonok s nomerom 
+
+2
+Sat Nov 19 17:33:46 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:33:47 2022
+Vypal bochonok s nomerom 
+
+4
+Sat Nov 19 17:33:47 2022
+ Bochki zakonchilis' 
+
+Sat Nov 19 17:34:14 2022
+Skol'ko bochonkov v meshke?: 
+
+Sat Nov 19 17:34:15 2022
+Pol'zovatel' vvel: 7
+
+Sat Nov 19 17:34:15 2022
+Vvedite 1 chtoby vytyanut' sluchajnyj bochonok ili 2, chtoby vyjti:
+
+Sat Nov 19 17:34:16 2022
+Pol'zovatel' vvel: 1
+
+Sat Nov 19 17:34:16 2022
+Vypal bochonok s nomerom 
+
+7
+Sat Nov 19 17:34:16 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:17 2022
+Vypal bochonok s nomerom 
+
+2
+Sat Nov 19 17:34:17 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:17 2022
+Vypal bochonok s nomerom 
+
+6
+Sat Nov 19 17:34:17 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:18 2022
+Vypal bochonok s nomerom 
+
+4
+Sat Nov 19 17:34:18 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:18 2022
+Vypal bochonok s nomerom 
+
+3
+Sat Nov 19 17:34:18 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:19 2022
+Vypal bochonok s nomerom 
+
+1
+Sat Nov 19 17:34:19 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:20 2022
+Vypal bochonok s nomerom 
+
+5
+Sat Nov 19 17:34:20 2022
+ Bochki zakonchilis' 
+
+Sat Nov 19 17:34:23 2022
+Skol'ko bochonkov v meshke?: 
+
+Sat Nov 19 17:34:24 2022
+Pol'zovatel' vvel: 13
+
+Sat Nov 19 17:34:24 2022
+Vvedite 1 chtoby vytyanut' sluchajnyj bochonok ili 2, chtoby vyjti:
+
+Sat Nov 19 17:34:25 2022
+Pol'zovatel' vvel: 1
+
+Sat Nov 19 17:34:25 2022
+Vypal bochonok s nomerom 
+
+3
+Sat Nov 19 17:34:25 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+11
+Sat Nov 19 17:34:26 2022
+Vvedite ili 1 ili 2! 
+
+Sat Nov 19 17:34:26 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:26 2022
+Vypal bochonok s nomerom 
+
+8
+Sat Nov 19 17:34:26 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+0
+Sat Nov 19 17:34:27 2022
+Vvedite ili 1 ili 2! 
+
+Sat Nov 19 17:34:27 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:28 2022
+Vypal bochonok s nomerom 
+
+4
+Sat Nov 19 17:34:28 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:28 2022
+Vypal bochonok s nomerom 
+
+7
+Sat Nov 19 17:34:28 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:29 2022
+Vypal bochonok s nomerom 
+
+13
+Sat Nov 19 17:34:29 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:29 2022
+Vypal bochonok s nomerom 
+
+5
+Sat Nov 19 17:34:29 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:30 2022
+Vypal bochonok s nomerom 
+
+1
+Sat Nov 19 17:34:30 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:30 2022
+Vypal bochonok s nomerom 
+
+12
+Sat Nov 19 17:34:30 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:30 2022
+Vypal bochonok s nomerom 
+
+6
+Sat Nov 19 17:34:30 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:31 2022
+Vypal bochonok s nomerom 
+
+11
+Sat Nov 19 17:34:31 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:31 2022
+Vypal bochonok s nomerom 
+
+9
+Sat Nov 19 17:34:31 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:32 2022
+Vypal bochonok s nomerom 
+
+2
+Sat Nov 19 17:34:32 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:32 2022
+Vypal bochonok s nomerom 
+
+10
+Sat Nov 19 17:34:32 2022
+ Bochki zakonchilis' 
+
+Sat Nov 19 17:34:34 2022
+Skol'ko bochonkov v meshke?: 
+
+Sat Nov 19 17:34:35 2022
+Pol'zovatel' vvel: 25
+
+Sat Nov 19 17:34:35 2022
+Vvedite 1 chtoby vytyanut' sluchajnyj bochonok ili 2, chtoby vyjti:
+
+Sat Nov 19 17:34:36 2022
+Pol'zovatel' vvel: 1
+
+Sat Nov 19 17:34:36 2022
+Vypal bochonok s nomerom 
+
+17
+Sat Nov 19 17:34:36 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:36 2022
+Vypal bochonok s nomerom 
+
+18
+Sat Nov 19 17:34:36 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:36 2022
+Vypal bochonok s nomerom 
+
+10
+Sat Nov 19 17:34:36 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+0
+Sat Nov 19 17:34:37 2022
+Vvedite ili 1 ili 2! 
+
+Sat Nov 19 17:34:37 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:38 2022
+Vypal bochonok s nomerom 
+
+1
+Sat Nov 19 17:34:38 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+5
+Sat Nov 19 17:34:38 2022
+Vvedite ili 1 ili 2! 
+
+Sat Nov 19 17:34:38 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:39 2022
+Vypal bochonok s nomerom 
+
+20
+Sat Nov 19 17:34:39 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:40 2022
+Vypal bochonok s nomerom 
+
+25
+Sat Nov 19 17:34:40 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:40 2022
+Vypal bochonok s nomerom 
+
+4
+Sat Nov 19 17:34:40 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+11
+Sat Nov 19 17:34:44 2022
+Vvedite ili 1 ili 2! 
+
+Sat Nov 19 17:34:44 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:45 2022
+Vypal bochonok s nomerom 
+
+9
+Sat Nov 19 17:34:45 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:46 2022
+Vypal bochonok s nomerom 
+
+13
+Sat Nov 19 17:34:46 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:46 2022
+Vypal bochonok s nomerom 
+
+15
+Sat Nov 19 17:34:46 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:48 2022
+Vypal bochonok s nomerom 
+
+6
+Sat Nov 19 17:34:48 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:49 2022
+Vypal bochonok s nomerom 
+
+21
+Sat Nov 19 17:34:49 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:49 2022
+Vypal bochonok s nomerom 
+
+7
+Sat Nov 19 17:34:49 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:50 2022
+Vypal bochonok s nomerom 
+
+3
+Sat Nov 19 17:34:50 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:50 2022
+Vypal bochonok s nomerom 
+
+12
+Sat Nov 19 17:34:50 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:51 2022
+Vypal bochonok s nomerom 
+
+5
+Sat Nov 19 17:34:51 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:51 2022
+Vypal bochonok s nomerom 
+
+8
+Sat Nov 19 17:34:51 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:51 2022
+Vypal bochonok s nomerom 
+
+22
+Sat Nov 19 17:34:51 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:52 2022
+Vypal bochonok s nomerom 
+
+19
+Sat Nov 19 17:34:52 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:53 2022
+Vypal bochonok s nomerom 
+
+23
+Sat Nov 19 17:34:53 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:54 2022
+Vypal bochonok s nomerom 
+
+2
+Sat Nov 19 17:34:54 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:54 2022
+Vypal bochonok s nomerom 
+
+14
+Sat Nov 19 17:34:54 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:55 2022
+Vypal bochonok s nomerom 
+
+11
+Sat Nov 19 17:34:55 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:34:56 2022
+Vypal bochonok s nomerom 
+
+24
+Sat Nov 19 17:34:56 2022
+Prodolzhit' vytyagivat' bochki?(1 - da, 2 - net): 
+
+1
+Sat Nov 19 17:35:00 2022
+Vypal bochonok s nomerom 
+
+16
+Sat Nov 19 17:35:00 2022
+ Bochki zakonchilis'
